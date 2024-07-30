@@ -1,7 +1,7 @@
 
-# Testingo
+# TestInGo
 
-Testingo is a standalone and easily integrable Go testing library designed to make writing test cases simple and advanced. It includes features for assertions, mocking, benchmarking, parallel test execution, and more.
+TestInGo is a standalone and easily integrable Go testing library designed to make writing test cases simple and advanced. It includes features for assertions, mocking, benchmarking, parallel test execution, and more.
 
 ## Installation
 
